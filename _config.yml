@@ -1,1 +1,2 @@
-theme: jekyll-theme-cayman
+# theme_style is default to 'light'
+theme_style: dark
